@@ -1,0 +1,22 @@
+body {
+    /*Assigning a background image*/
+	background:url('../images/background.png');
+	background-size: cover;
+    text-align: center;
+}
+.text {
+	font-size: 30px;
+	color:gray;
+	font-family: cursive;
+	margin-top:50px;
+}
+.score {
+        font-size: 20px;
+        color:gray;
+        font-family: cursive;	
+}
+
+canvas {
+	margin-top: -40px;
+}
+
